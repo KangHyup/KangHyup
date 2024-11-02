@@ -1,4 +1,4 @@
-## Hi there 👋
+![image description](https://media3.giphy.com/media/OYwYE7UtTTqLBfpBS8/giphy.gif)
 
 <!--
 **KangHyup/KangHyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
