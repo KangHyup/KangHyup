@@ -1,8 +1,6 @@
-<img 
-  src="https://michaelwex.com/wp-content/uploads/2010/05/welcome.jpg"
-  alt = "Welcome!"
-  style="margin-left: auto; margin-right: auto; display: block;"
-/>
+<div align=center>
+  <img src="https://michaelwex.com/wp-content/uploads/2010/05/welcome.jpg" alt = "Welcome!"/>
+</div>
 
 <!--
 **KangHyup/KangHyup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
